@@ -58,7 +58,7 @@ const validateErrors = (params) => {
             message.error('User not found')
             break
         default:
-            alert('Internal  server error')
+            message.error('Internal  server error')
             break
     }
 }
