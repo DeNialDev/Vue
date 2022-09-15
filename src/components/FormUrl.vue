@@ -16,7 +16,7 @@
     >
     </a-form-item>
     <a-form-item>
-        <a-button type="">Agregar url</a-button>
+        <a-button type="primary" htmlType="submit">Agregar url</a-button>
     </a-form-item>
   </a-form>
 </template>
